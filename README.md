@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/tts/main/.github/assets/thumbnail.png" alt="tts" width="100%">
+</p>
+
 # Google Gemini tts CLI
 
 Interactive command-line interface for generating lifelike speech using the Google Gemini API.
