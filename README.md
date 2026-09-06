@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/tts/main/.github/assets/thumbnail.png" alt="tts" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/tts/main/.github/assets/thumbnail.png" alt="tts" width="100%">
 </p>
 
 # Google Gemini tts CLI
